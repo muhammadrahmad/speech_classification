@@ -65,4 +65,4 @@ jupyter notebook animal_sound_classification.ipynb
 
 ## 🙋‍♀️ Penulis
 
-Proyek oleh [Nama Kamu]. Dibuat untuk tugas klasifikasi suara berbasis CNN.
+Proyek oleh Muhammad Rahmad. Dibuat untuk tugas klasifikasi suara berbasis CNN.
